@@ -75,20 +75,23 @@ The contact form uses [Web3Forms](https://web3forms.com/). To make it work for y
 └── README.md       # Documentation
 ```````
 🎨 Design System
-Primary Color: Slate 900 (#0f172a) - Background
-Secondary Color: Slate 800 (#1e293b) - Cards/Sections
-Accent Color: Sky 400 (#38bdf8) - Highlights, Links, Glows
-Font Family: Poppins
+
+1. Primary Color: Slate 900 (#0f172a) - Background
+2. Secondary Color: Slate 800 (#1e293b) - Cards/Sections
+3. Accent Color: Sky 400 (#38bdf8) - Highlights, Links, Glows
+4. Font Family: Poppins
 
 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+
+* **Contributions, issues, and feature requests are welcome!**
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
 
 📄 License
-Distributed under the MIT License. See LICENSE for more information.
 
-Developed with ❤️ by Rajeev Ranjan
+* **Distributed under the MIT License. See LICENSE for more information.**
+
+## Developed with ❤️ by Rajeev Ranjan
