@@ -73,3 +73,22 @@ The contact form uses [Web3Forms](https://web3forms.com/). To make it work for y
 ├── script.js       # Logic for scroll reveal, typing effect, and form handling
 ├── assets/         # (Create this folder) for Resume and Images
 └── README.md       # Documentation
+```````
+🎨 Design System
+Primary Color: Slate 900 (#0f172a) - Background
+Secondary Color: Slate 800 (#1e293b) - Cards/Sections
+Accent Color: Sky 400 (#38bdf8) - Highlights, Links, Glows
+Font Family: Poppins
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
+📄 License
+Distributed under the MIT License. See LICENSE for more information.
+
+Developed with ❤️ by Rajeev Ranjan
